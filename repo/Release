@@ -1,0 +1,8 @@
+Origin: Finn Gaida
+Label: Finn Gaida private repo
+Suite: stable
+Version: 0.1
+Codename: tangelo
+Architectures: iphoneos-arm
+Components: main
+Description: My private repository for demonstration purposes

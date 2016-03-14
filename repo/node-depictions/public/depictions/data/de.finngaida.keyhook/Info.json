@@ -1,0 +1,20 @@
+{
+	"title": "Keyhook",
+	"shortdescription": "Navigate your homescreen with a BT keyboard",
+	"fulldescription": "Android has bluetooth keyboard support built-in since version 2 and with iOS 9 Apple somehow tried to add some features to it as well (cheat sheets, special keybindings), but the homescreen is still not at all listening to keyboard events. With Keyhook a subtle selection view appears behind the icons that you can control with the arrow keys. Use <enter> to open the currently selected app/folder, ⌘ + <arrow> to swipe pages and ⌘ + [1-9] to access your apps in the dock.",
+	"changes": [
+		{
+			"date": "Feb 7, 2016",
+			"version": "0.0.1",
+			"changes": [
+				"Initial release"
+			]
+		}
+	],
+	"features": [
+		"external keyboard",
+        "homescreen navigation",
+        "dock apps shortcuts"
+	],
+	"email": "finn@finngaida.de"
+}

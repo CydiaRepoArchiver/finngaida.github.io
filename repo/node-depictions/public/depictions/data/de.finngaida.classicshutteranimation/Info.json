@@ -1,0 +1,18 @@
+{
+	"title": "ClassicShutterAnimation",
+	"shortdescription": "Bring back tho old shutter animation",
+	"fulldescription": "Apple has undoubtedly done some advancements concerning UI design in iOS 7, but removing the camera shutter animation was not one of them, so here it is again.",
+	"changes": [
+		{
+			"date": "Feb 7, 2016",
+			"version": "0.0.1",
+			"changes": [
+				"Initial release"
+			]
+		}
+	],
+	"features": [
+		"shutter animation"
+	],
+	"email": "finn@finngaida.de"
+}
